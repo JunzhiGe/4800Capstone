@@ -1,2 +1,2 @@
 # 4800Capstone
-This is the captone project for 4800
+This is the capstone project for 4800
